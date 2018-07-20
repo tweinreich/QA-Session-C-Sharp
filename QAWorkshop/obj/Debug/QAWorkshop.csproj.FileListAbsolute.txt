@@ -1,0 +1,6 @@
+/home/trweinreich/RiderProjects/QAWorkshop/QAWorkshop/bin/Debug/QAWorkshop.exe
+/home/trweinreich/RiderProjects/QAWorkshop/QAWorkshop/bin/Debug/QAWorkshop.pdb
+/home/trweinreich/RiderProjects/QAWorkshop/QAWorkshop/obj/Debug/QAWorkshop.csprojResolveAssemblyReference.cache
+/home/trweinreich/RiderProjects/QAWorkshop/QAWorkshop/obj/Debug/QAWorkshop.csproj.CoreCompileInputs.cache
+/home/trweinreich/RiderProjects/QAWorkshop/QAWorkshop/obj/Debug/QAWorkshop.exe
+/home/trweinreich/RiderProjects/QAWorkshop/QAWorkshop/obj/Debug/QAWorkshop.pdb

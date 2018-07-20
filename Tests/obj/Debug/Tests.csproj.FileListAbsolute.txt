@@ -1,0 +1,10 @@
+/home/trweinreich/RiderProjects/QAWorkshop/Tests/bin/Debug/Tests.dll
+/home/trweinreich/RiderProjects/QAWorkshop/Tests/bin/Debug/Tests.pdb
+/home/trweinreich/RiderProjects/QAWorkshop/Tests/bin/Debug/QAWorkshop.exe
+/home/trweinreich/RiderProjects/QAWorkshop/Tests/bin/Debug/QAWorkshop.pdb
+/home/trweinreich/RiderProjects/QAWorkshop/Tests/obj/Debug/Tests.csprojResolveAssemblyReference.cache
+/home/trweinreich/RiderProjects/QAWorkshop/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache
+/home/trweinreich/RiderProjects/QAWorkshop/Tests/obj/Debug/Tests.dll
+/home/trweinreich/RiderProjects/QAWorkshop/Tests/obj/Debug/Tests.pdb
+/home/trweinreich/RiderProjects/QAWorkshop/Tests/bin/Debug/nunit.framework.dll
+/home/trweinreich/RiderProjects/QAWorkshop/Tests/bin/Debug/nunit.framework.xml
